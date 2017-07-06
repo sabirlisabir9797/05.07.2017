@@ -1,0 +1,11 @@
+Assembler dili diger proqramlasdirma dillerine benzemir ve tamamile ferqli bir dildir. 
+Assembler dilinin imkanlari sonsuzdur(Diger dillerinki ise sonlu).
+Assembler hal-hazirda ancaq sistem proqramlasdirmada istifade olunur.
+C proqramlasd?rma dili diger emeliyyat sistemlerinde de genis istifade olunur. 
+Muasir dovrde bu dil sistem proqramramlasdirmasi ucun en guclu proqramlasdirma dillerinden biri hesab olunur. 
+Windows, Linux, Unix, emeliyyat sistemleri mehz C-de yazilib.
+C proqramlasderma dili bir cox diger proqramlasdirma dillerinin yaranmasina ve inkisafina tekan vermisdir. 
+Bele ki, C++, Objective-C, Perl, Java, PHP, JavaScript ve diger dillerinin yaranmasinda C-nin cox boyuk rolu olmusdur.
+ Buna gore de bu dillere "C kimi sintaksis?" malik diller deyilir.
+Asp.Net Web inkisafi ucun nezerde tutulmus ve web sehifelerin yaradilmasinda istifade olunur.
+O Microsoft sirketi terefinden layihelenib ve proqramcilara dinamik web sehifelerin yaradilmasina, web tetbiqlerinin qurulmasina xidmet edir.
